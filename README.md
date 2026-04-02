@@ -24,15 +24,14 @@ Built a signal delivery system that converts Substack content into WhatsApp aler
 
 ---
 
-### 🎬 WatchCircle (In Progress)
+### 🎬 WatchCircle (In Progress) https://golden-stage-welcome.lovable.app
 
-A smart movie discovery platform designed to help users decide what to watch in under 5 minutes.
+A taste-driven movie discovery product that helps users decide what to watch in under 5 minutes — without endless scrolling.
 
 Focus:
-
-* Taste-based recommendations
-* Fast decision-making UX
-* Platform-aware suggestions
+• Decision-first UX (not browsing-first)
+• Ranking-based recommendations (not strict filters)
+• Taste Circles for community-driven discovery
 
 ---
 
@@ -52,6 +51,11 @@ Focus:
 * Lovable (no-code/low-code)
 
 ---
+### 🚀 What I'm doing right now
+
+• Transitioning from founder → product management  
+• Building real-world product case studies (WatchCircle, automation systems)  
+• Practicing product thinking (metrics, RCA, system design)
 
 ## 📫 Let's connect
 
