@@ -24,7 +24,7 @@ Built a signal delivery system that converts Substack content into WhatsApp aler
 
 ---
 
-### 🎬 WatchCircle (In Progress) https://golden-stage-welcome.lovable.app
+### 🎬 WatchCircle (In Progress) https://watchcircle.lovable.app
 
 A taste-driven movie discovery product that helps users decide what to watch in under 5 minutes — without endless scrolling.
 
